@@ -27,6 +27,10 @@ seguem abaixo.
 
 <a href="https://github.com/steinbukken7321/Aventura_neural-Pilhando_os_Segredos_das_Redes-ebook/blob/main/output/Aventura%20Neural%20-%20ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
+
+<a href="https://drive.usercontent.google.com/u/1/uc?id=1651EqerjeJ7-9z9RNSz40P2vf9xHBleh&export=download" title="Download PDF now"> 📕Clique aqui para baixar</a>
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
