@@ -44,16 +44,16 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook, com foco em redes neurais, listando os principais temas a serem abordados no ebook, lembrando que a temática é pirata |
 
 
-Midjourney：
+FireFly：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Pirates and Neural Networks --v 5.2 |
+| título | Pirates and Neural Networks |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via firefly
+- Imagens geradas via FireFly
 
 ## 📚 Materiais
 
